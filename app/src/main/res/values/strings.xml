@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TecoTest</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="last_known_location">Last location:</string>
+    <string name="status">%1$s - %2$s - %3$s</string>
+    <string name="last_know_location_detail">Last location: %1$s</string>
+    <string name="origin_detail">Origin: %1$s</string>
+    <string name="episodes_detail">Amount Episodes: %1$s</string>
+</resources>
